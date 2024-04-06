@@ -9,7 +9,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: 54.179.4.162
+  - host: ec2-54-179-4-162.ap-southeast-1.compute.amazonaws.com
     http:
       paths:
       - path: /
